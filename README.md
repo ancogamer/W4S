@@ -4,7 +4,7 @@ Frontend end : https://github.com/saulogp/find-a-table
 
 
 
-Developers:Andrew Seratti, Leonardo Sudatti, João Vitor Astori Saletti, Yuri Guimarães
+Developers:Andrew Seratti, Leonardo Sudatti, João Vitor Astori Saletti, Saulo Godoy Proetti and Yuri Guimarães
 
 **Agradecimentos(Thanks for the amazing help): **
 
